@@ -1,2 +1,2 @@
-#hi!
-just learning git and github commands
+#hi
+just learning git and github commands!
